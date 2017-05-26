@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>DiOne - SeieS平台</title>
+	<title>DiOne平台</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,7 +29,7 @@
             </a>
         </div>
     </div>
-  
+
     <div class="footer">
         <div class="copyright">
             <p>Copyright © 2017 DiOne Inc. All Rights Reserved.</p>
